@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[287],{647:()=>{hideAlert=function(e){setTimeout((function(){e.classList.add("absolute","opacity-0","transform","-translate-x-32")}),2e3)},document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelectorAll(".basis-alert");e&&e.forEach(hideAlert)}))}},e=>{var t;t=647,e(e.s=t)}]);
